@@ -4,7 +4,8 @@ User Stories
 
    Person                |	see if there is a docking station
    Docking Station
+   Bicycle
 
 2. Objects		 |	Messages
-   Person 
-   Bicycle		 |       See if a bicycle is working
+   Person                |       See if a bicycle is working
+   Bicycle		 |       
